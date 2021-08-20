@@ -1,0 +1,26 @@
+{
+  "name": "seges-test-form",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EDU0007/seges-test-form.git"
+  },
+  "keywords": [
+    "seges",
+    "coutries"
+  ],
+  "author": "diario02 <santanaeduardo6@gmail.com> (https://github.com/EDU0007)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EDU0007/seges-test-form/issues"
+  },
+  "homepage": "https://github.com/EDU0007/seges-test-form#readme",
+  "dependencies": {
+    "random-item": "4.0.1"
+  }
+}
